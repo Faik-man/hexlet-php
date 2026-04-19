@@ -6,5 +6,7 @@
             "email": "faik199417@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "illuminate/collections": "^13.5"
+    }
 }
