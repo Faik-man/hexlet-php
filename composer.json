@@ -8,5 +8,11 @@
     ],
     "require": {
         "illuminate/collections": "^13.5"
+    },
+    "autoload": {
+        "files": [
+            "src/Runner.php"
+        ]
     }
+
 }
